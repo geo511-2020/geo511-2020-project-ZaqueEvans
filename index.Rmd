@@ -1,14 +1,17 @@
 ---
-title: "My Final Project Template"
-author: Your name here
-subtitle: Subtitle here if desired
+title: "GEO 511 | Fall 2020 | Project"
+author: Zaque Evans
+subtitle: ECIDA 2018 Subsidies 
 ---
 
 # Introduction
 
 [~ 200 words]
 
-Clearly stated background and questions / hypotheses / problems being addressed. Sets up the analysis in an interesting and compelling way.
+Will return to later. Nutshell: are we putting econ devel subsidies in areas where
+they aren't needed? 
+
+**This is a note and question for later: I saw best practices suggesting you load libaries early/in your header. Not sure if this is best practice**
 
 # Materials and methods
 
